@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/oncell"><img src="https://api.daily.dev/devcards/c5f1194e982d4b85b659dcd9a4200e2b.png?r=br0" width="400" alt="Önsel AYDIN's Dev Card"/></a>
 <!--
 **onselaydin/onselaydin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
